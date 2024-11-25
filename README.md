@@ -48,14 +48,9 @@ Network architecture and additional loss of ImageGuard. Visual representations a
 <h2 id="citation">📑 Citation</h2>
 
 ```bibtex
-@misc{li2024saladbenchhierarchicalcomprehensivesafety,
-      title={SALAD-Bench: A Hierarchical and Comprehensive Safety Benchmark for Large Language Models}, 
-      author={Lijun Li and Bowen Dong and Ruohui Wang and Xuhao Hu and Wangmeng Zuo and Dahua Lin and Yu Qiao and Jing Shao},
-      year={2024},
-      eprint={2402.05044},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2402.05044}, 
+@article{libenchmarking,
+  title={Benchmarking Ethics in Text-to-Image Models: A Holistic Dataset and Evaluator for Fairness, Toxicity, and Privacy},
+  author={Li, Lijun and Shi, Zhelun and Hu, Xuhao and Dong, Bowen and Qin, Yiran and Liu, Xihui and Sheng, Lu and Shao, Jing}
 }
 ```
 
