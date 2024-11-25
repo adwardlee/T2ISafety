@@ -1,6 +1,5 @@
 <div align="center">
   <h1>T2ISafety</h1>
-  <img src="assets/icon.webp" width="160" alt="SALAD icon" style="border-radius: 5%;"><br />
   <span style="color:red">📢 <strong><i>We are currently organizing the code for T2ISafety. If you are interested in our work, please star ⭐ our project.</i></strong></span>
 
   <h4>
